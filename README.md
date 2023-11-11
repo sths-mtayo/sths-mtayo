@@ -1,17 +1,3 @@
-<p align="left"> 
-  <a href="https://github.com/sths-mtayo/sths-mtayo">
-    <img src="https://img.shields.io/github/watchers/sths-mtayo/sths-mtayo?style=social" alt="sths-mtayo" />
-  </a>
-  <a href="https://twitter.com/sths-mtayo">
-    <img height="20" src="https://img.shields.io/twitter/follow/sths-mtayo" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCpb92184AP2Ffhyf7u2bD3w">
-    <img height="20" src="https://img.shields.io/youtube/channel/views/UCpb92184AP2Ffhyf7u2bD3w" />
-  </a>
-  <a href="https://github.com/sths-mtayo">
-    <img height="20" src="https://img.shields.io/github/followers/sths-mtayo?style=social" />
-</p>
-  
 [![sths-mtayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sths-mtayo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sths-mtayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
